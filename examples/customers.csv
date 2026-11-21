@@ -1,0 +1,6 @@
+id,name,email,age,balance
+1,Nino,nino@example.com,24,150.50
+2,Giorgi,giorgi@example.com,31,89.00
+3,Ana,ana@example.com,,230.75
+2,Giorgi,giorgi@example.com,31,89.00
+4,Luka,,abc,12.30
